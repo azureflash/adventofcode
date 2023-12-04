@@ -5,4 +5,5 @@
   ↘+4⊗"\r\n\r\n"◫4.
   ⊙&fwa ,
   &fras
-|&fras) &fe. "day2.txt"
+| &fras
+) &fe. "day2.txt"
