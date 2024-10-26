@@ -12,7 +12,7 @@
 
 # Part one: remove impossible games of each color
 # then sum up the game numbers
-⊐≡(▽≤12/↥ ≡(parse ⍜⇌(↘4)) regex "\\d+ red" ⊔).
+⊐≡(▽≤12/↥ ≡(parse ?⍜⇌(↘4)) regex "\\d+ red" ⊔).
 ⊐≡(▽≤13/↥ ≡(parse ⍜⇌(↘6)) regex "\\d+ green" ⊔).
 ⊐≡(▽≤14/↥ ≡(parse ⍜⇌(↘5)) regex "\\d+ blue" ⊔).
 ⊐≡(≡(parse ↘5) regex "Game \\d+" ⊔)
